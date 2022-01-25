@@ -1,0 +1,19 @@
+1. JavaとC++の違い
+・C++にはJavaには無いポインタの概念がある。
+・C++はJavaより実行速度が速い。
+・C++は他のC言語と互換性があるが、Javaには互換性がない。
+・Javaは汎用性が高いためWEBシステムやアプリ開発に有利という特徴がある。
+・JavaはC++より求人数が多い。
+
+
+2. JavaとJavaScriptの違い
+・JavaはSunMicrostems社が、JavaScriptはNetscapeCommunications社が開発したプログラミング言語である。
+・Javaはどんなハードウェアでも動作することを目的として開発されたが、JavaScriptは容易に開発できる手軽さと素早さを求めて開発された。
+・Javaはコンパイルが必要だが、JavaScriptは不要である。
+・Javaは主にWebサービスやアプリ開発に利用されるのに対し、JavaScriptはWebページを開発する際に主に使われる。
+
+
+3.JavaとPythonの違い
+・Javaはコンパイルが必要だが、Pythonは不要である。
+・Javaは汎用性の高いライブラリがあるのに対し、Pythonは数値処理や化学計算用のライブラリが充実している。
+・日本ではJavaのの需要が高いのに対し、海外ではPythonの需要が高い。
